@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my-app<br>🌱 I’m currently learning React.js and JavaScript<br>
+🔭 I am currently working on my website based on React and JavaScript. The website is meant to serve as my personal CV and provide a secure backup for my files. To achieve this, I am using MongoDB as my database system.<br>🌱 I’m currently learning React.js and JavaScript<br>
 
 
 ## 🌐 Socials:
